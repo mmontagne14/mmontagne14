@@ -1,13 +1,17 @@
 Hola! 👋 Mi nombre es Marcelo Montagné y soy Fullstack Developer. &nbsp;&nbsp;
 
-💡 Con más de 7 años de experiencia en el rubro IT, me especializo en programación orientada a objetos (POO), utilizo principios SOLID, conozco diversos patrones de diseño y me interesan las buenas prácticas de programación y arquitectura. &nbsp;&nbsp;
+Con más de 8 años de experiencia en la industria IT, me considero un desarrollador versátil capaz de desenvolverme tanto en el FrontEnd como en el BackEnd. Soy una persona proactiva que disfruta tanto del dinamismo de ser parte de un equipo como del desafío de estar por cuenta propia, conozco muy bien ambas maneras de trabajar y disfruto de utilizar mi experiencia y conocimiento, así como también de aprender lo nuevo y necesario que el entorno me exija en cada momento. Mis bases son la programación orientada a objetos (POO) utilizando los principios SOLID junto con buenas prácticas relacionadas con el código limpio y la arquitectura limpia.
 
-🌱 He integrado diversos equipos en donde participé en la creación y mantenimiento de aplicaciones a medida bajo el ecosistema de Microsoft .Net y .Net Core. En cuando a lenguajes, en BackEnd he trabajado principalmente con C#, con algunas experiencias aisladas en Java y PHP. Utilizo bases de datos T-SQL con SQL Server y MySql (experiencia en Entity Framework Core, Code First Migrations, Dapper, Linq, etc) . En cuanto a tecnologías FrontEnd tengo experiencia en HTML, CSS, y Javascript y los frameworks Vue.js, Angular 2+, React y React Native. También construí páginas web a través de CMS como Wordpress y Jumbla. 
+💡 He colaborado con múltiples equipos, contribuyendo al desarrollo y mantenimiento de aplicaciones personalizadas en el ecosistema de Microsoft. Mi trayectoria comenzó con .NET
+Framework 4.5, Visual Basic 6, ASP.Net y WinForms entre otras. Luego continué con C# en .NET Core y .NET 5 6 7. Tengo experiencia en bases de datos T-SQL usando SQL Server y MySQL, procedimientos almacenados, funciones, vistas, scripts, diferentes ORMs como Entity Framework, Dapper y tecnologías como LINQ y ADO.Net. También he trabajado con Unit Tests y TDD. &nbsp;&nbsp;
 
-✍️  He realizado migraciones e integraciones, comunicaciones mediante protocolo SOAP, RESTful APIs y WebServices (WCF). También poseo experiencia en Cloud Services de Azure (Computer Vision, OCR, Azure Blob Storage, App Services, Application Insights), CI/CD con GithubActions y Azure Pipelines.
+🌱 He gestionado migraciones e integraciones, utilizando protocolos de comunicación como SOAP, APIs RESTful, WebSocket y servicios web (WCF). Tengo experiencia desarrollando módulos de autenticación y autorización con tokens JWT y .NET Core Identity
 
-💬  Actualmente estoy trabajando de manera freelance en proyectos existentes y cobrando por hora, cómo también implementando de cero sistemas de pequeño y mediano tamaño. Abierto a nuevas propuestas con cobro en dólares. Mi nivel de inglés es B2. 
+✍️ En el desarrollo FrontEnd, tengo las bases en HTML, CSS y JavaScript. Mayormente utilicé React como framework de JS, y también poseo algo de experiencia con Angular 2+ y Vue.js. Además, estoy familiarizado con Blazor y Razor Pages, aunque no tengo experiencia directa trabajando. He contribuido a desarrollar aplicaciones Mobile con React Native, tanto en Android como en IOs y con Apache Cordova como entorno de desarrollo.
 
+💬  También he trabajado con servicios de Azure Cloud, incluyendo Computer Vision, OCR y soluciones de almacenamiento, además de herramientas de control de versiones como Git, SVN Tortoise, TFS y DevOps en todo el proceso de desarrollo. He utilizado GitHub Actions y Azure Pipelines para CI/CD.
+
+Actualmente trabajo como desarrollador Freelance y también como Contractor, manteniendo proyectos existentes y desarrollando nuevos de pequeño y mediano tamaño. Me considero responsable, empático, motivado por los desafíos y con una muy buena habilidad para la resolución de problemas. Estoy entusiasmado por colaborar en nuevos proyectos y equipos, con el objetivo de mejorar mis habilidades técnicas y sociales, aprender de expertos y compartir lo que he aprendido con otros que lo necesiten. Mi nivel de inglés actual es B2.
 
 
 
